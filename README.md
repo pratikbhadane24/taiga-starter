@@ -60,7 +60,7 @@ It will setup everything, including ACME (https certificates), PostgreSQL and wi
 5. Create super user
 
 ```
-> bash scripts/manage.py createsuperuser
+> bash scripts/manage.sh createsuperuser
 ```
 
 This is based on the original [Taiga docker repo](https://github.com/kaleidos-ventures/taiga-docker).
